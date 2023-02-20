@@ -1,0 +1,39 @@
+* {
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+table {
+    
+    border-style: solid;
+    border-color: darkgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 4px;
+}
+.tag {
+    font-family: monospace;
+    text-align: center;
+}
+td {
+    border-style: ridge;
+    border-color: black;
+    border-radius: 4px;
+    border-width: 2px;
+    font-weight: 500;
+    background-color: palegoldenrod;
+    line-height: 25px;
+    text-align: left;
+}
+th {
+    font-size: large;
+    font-weight: bolder;
+    background-color: darkolivegreen;
+}
+h2 {
+    text-align: center;
+    color: forestgreen;
+}
